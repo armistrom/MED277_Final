@@ -15,7 +15,3 @@ Hybrid retrieval improves numeric extraction substantially (Similarity-RAG < Key
 ## Dataset
 MIMIC-IV patient notes (100 notes) + 23 eligibility questions derived from ARISTOTLE-like apixaban criteria (15 Boolean, 8 numeric). :contentReference[oaicite:3]{index=3}
 
-## Run (template)
-```bash
-pip install -r requirements.txt
-python run_experiments.py
